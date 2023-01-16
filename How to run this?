@@ -1,0 +1,15 @@
+Follow the simple steps to run the following codes in your Linux Terminal.
+
+cd Desktop
+
+Step 1> mkdir scripts
+Step 2> cd scripts
+Step 3> touch test_script
+Step 4> vi test_script (press shift + i to open INSERT mode)
+Step 5> paste your desired command / shell
+Step 6> Save your file - click esc then shift + : then wq then enter.
+Step 7> chmod u+x test_script
+Step 8> Now run ./test_script
+
+
+DONT FORGET TO SAVE THE NECESSARY FILES THAT YOU'RE GOING TO USE IN SHELL SCRIPTING RUNTIME.
